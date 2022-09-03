@@ -3,7 +3,7 @@
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41036
 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL 2 NIC " tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Televicentro-en-vivo-Online.png" group-title="** CHATEL TV **",CANAL 2 NIC
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11899
+http://nicatv.rylco.com:8075/channel2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" CARTOON NETWORK " tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="** CHATEL TV **",CARTOON NETWORK
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
@@ -12,16 +12,16 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16638
 http://nicatv.rylco.com:8075/channel4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL 5 MX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="** CHATEL TV **",CANAL 5 MX
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/106
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/76689
 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL 6 NIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="** CHATEL TV **",CANAL 6 NIC
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11908
+http://nicatv.rylco.com:8075/channel6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" CANAL 7 CR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="** CHATEL TV **",CANAL 7 CR
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11859
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="** CHATEL TV **",CARTOONITO
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16633
 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL 8 NIC " tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TN8-Telenica-en-vivo-Online.png" group-title="** CHATEL TV **",CANAL 8 NIC
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11910
+http://nicatv.rylco.com:8075/channel8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL 9 NIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Canal_9_Nicaragua_nuevo.png" group-title="** CHATEL TV **",CANAL 9 NIC
 http://nicatv.rylco.com:8075/channel9/playlist.m3u8
@@ -44,20 +44,20 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11896
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 15 NIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png" group-title="** CHATEL TV **",CANAL 15 NIC
 http://nicatv.rylco.com:8075/channel15/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="** CHATEL TV **",DISNEY CHANNEL
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/103434
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://imgur.com/MM4PFPl.png" group-title="** CHATEL TV **",DISNEY JR
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16654
+
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="** CHATEL TV **",NICK JR
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41001
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/428
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://i.pinimg.com/originals/44/e1/e0/44e1e09062e621d0a49ab3cbd8ed06bd.png" group-title="** CHATEL TV **",NICKELODEON
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41004
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="** CHATEL TV **",DISCOVERY KIDS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16650
-
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="** CHATEL TV **",DISNEY XD
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/431
-
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="** CHATEL TV **",DISNEY CHANNEL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16653
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="** CHATEL TV **",TOONCAST
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64023
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 21 NIC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="** CHATEL TV **",CANAL 21 NIC
 http://nicatv.rylco.com:8075/channel21/playlist.m3u8
@@ -68,15 +68,11 @@ http://nicatv.rylco.com:8075/channel22/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 23 NIC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/cdnn23.png" group-title="** CHATEL TV **",CANAL 23 NIC
 http://nicatv.rylco.com:8075/channel23/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="http://sinlimitestv.com:8080/images/e11da376ede5310e71a93ab0cb22eab9.png" group-title="** CHATEL TV **",CARACOL TV
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/66291
 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://imgur.com/MM4PFPl.png" group-title="** CHATEL TV **",DISNEY JR
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41003
-
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="** CHATEL TV **",CARTOONITO
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16633
-
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="** CHATEL TV **",TOONCAST
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64023
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL TV" tvg-logo="http://sinlimitestv.com:8080/images/e11da376ede5310e71a93ab0cb22eab9.png" group-title="** CHATEL TV **",CARACOL TV
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/66290
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO" tvg-logo="https://i.ibb.co/tKzMN6t/Sin-t-tulo-1.png" group-title="** CHATEL TV **",TELEMUNDO SAN FRANCISCO
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65440
@@ -132,8 +128,8 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27379
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="** CHATEL TV **",COMEDY CENTRAL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40995
 
-#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="** CHATEL TV **",LAS ESTRELLAS HD
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11061
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="** CHATEL TV **",LAS ESTRELLAS HD
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54587
 
 #EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="** CHATEL TV **",LAS ESTRELLAS
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40970
@@ -153,9 +149,6 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/105
 #EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://i.ibb.co/JdKFT1y/Sin-t-tulo-1.png" group-title="** CHATEL TV **",EL GOURMET
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64024
 
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="** CHATEL TV **",LIFE TIME
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65435
-
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.ibb.co/pZwyqRd/Sin-t-tulo-1.png" group-title="** CHATEL TV **",HGTV
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16648
 
@@ -164,6 +157,9 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/38770
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://imgur.com/LADTWUt.png" group-title="** CHATEL TV **",AZTECA UNO
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/220
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://imgur.com/LADTWUt.png" group-title="** CHATEL TV **",AZTECA UNO
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26195
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="** CHATEL TV **",AZTECA 7
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27317
@@ -180,14 +176,14 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/74546
 #EXTINF:-1 tvg-id= tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="** CHATEL TV **",A&E
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11861
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png" group-title="** CHATEL TV ** ",STAR CHANNEL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/64
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="** CHATEL TV ** ",STAR CHANNEL
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11956
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="** CHATEL TV **",AXN
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/61
 
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.ibb.co/6sg7VMK/Sin-t-tulo-1.png" group-title="** CHATEL TV **",FX 
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40982
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/66
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://i.ibb.co/CnMyrP2/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SONY
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40991
@@ -199,19 +195,16 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40986
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40993
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/2418px-Universal_Pictures_logo.svg.png" group-title="** CHATEL TV **",UNIVERSAL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40989
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16720
 
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="** CHATEL TV **",WARNER CHANNEL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40990
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/72
 
 #EXTINF:-1 tvg-id= tvg-name="DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="** CHATEL TV **",DINAMITA
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16643
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/1200px-Amc_theatres_logo.svg.png" group-title="** CHATEL TV **",AMC
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16624
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="** CHATEL TV **",CINE CANAL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16641
 
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://imgur.com/juDOsGV.png" group-title="** CHATEL TV **",CINECANAL HD
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65838
@@ -298,13 +291,11 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16715
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/59
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="** CHATEL TV **",ANIMAL PLANET
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11868
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/v15TVYQ/Sin-t-tulo-1.png" group-title="** CHATEL TV **",DISCOVERY CHANNEL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/30815
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/40998
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER" tvg-logo="https://i.ibb.co/GFRmnDN/Sin-t-tulo-1.png" group-title="** CHATEL TV **",DISCOVERY THEATHER
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11931
@@ -316,7 +307,10 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43625
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27192
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/g342jf7/Sin-t-tulo-1.png" group-title="** CHATEL TV **",DISCOVERY H&H
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16649
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12000
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://i.ibb.co/g342jf7/Sin-t-tulo-1.png" group-title="** CHATEL TV **",DISCOVERY H&H
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/489
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="** CHATEL TV **",DISCOVERY SCIENCE 
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16651
@@ -336,25 +330,21 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/30816
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/M9mLYmT/Sin-t-tulo-1.png" group-title="** CHATEL TV **",NAT GEO
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/496
 
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://i.ibb.co/yS94D8S/Sin-t-tulo-1.png" group-title="** CHATEL TV **",NATGEO WILD
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/495
-
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="** CHATEL TV **",TLC
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26028
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://i.ibb.co/cLk91MN/Sin-t-tulo-1.png" group-title="** CHATEL TV **",CLARO SPORTS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16634
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/11925
 
 #EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="** CHATEL TV **",ADRENALINA SPORT
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69357
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS 1
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31018
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS BUNDESLIGA" tvg-logo="https://i.ibb.co/fGYv501/Sin-t-tulo-1.png" group-title="** CHATEL TV **",SKY SPORTS 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27373
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK" tvg-logo="http://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="** CHATEL TV **",UFC NETWORK
@@ -375,20 +365,11 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/501
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="** CHATEL TV **",TNT SPORTS CL
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31238
 
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Tigo.svg/1280px-Logo_Tigo.svg.png" group-title="** CHATEL TV **",TIGO SPORTS GT
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27362
-
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT HN" tvg-logo="https://i.ibb.co/0GZyx8H/Sin-t-tulo-1.png" group-title="** CHATEL TV **",TIGO SPORT HN
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/27365
-
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT CR" tvg-logo="https://i.ibb.co/bRF97kj/Sin-t-tulo-1.png" group-title="** CHATEL TV **",TIGO SPORT CR
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54607
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://i.ibb.co/wdP3Ss2/Sin-t-tulo-1.png" group-title="** CHATEL TV **",FUTV CR
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/25978
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="** CHATEL TV **",FOX SPORTS PREMIUM
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/65039
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="** CHATEL TV **",FOX SPORTS
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/383
@@ -406,10 +387,13 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26785
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26786
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORT SUR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="** CHATEL TV **",FOX SPORT SUR 3
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26787
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/93121
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="** CHATEL TV **",ESPN
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41500
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="** CHATEL TV **",ESPN
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/465
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/41499
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="** CHATEL TV **",ESPN 2
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
@@ -418,7 +402,7 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/466
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/467
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="** CHATEL TV **",ESPN SUR
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/72629
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/69423
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="https://i.ibb.co/Sv0ynZ9/Sin-t-tulo-1.png" group-title="** CHATEL TV **",ESPN 2 SUR
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26804
@@ -429,18 +413,14 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/26026
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="** CHATEL TV **",DIRECTV SPORT
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/54601
 
-#EXTINF:-1 tvg-id="" tvg-name="DP: DIRECTV SPORT [EC]" tvg-logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png" group-title="*** DEPORTES LATINOS ***",DIRECTV SPORT
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43440
-
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="** CHATEL TV **",DIRECTV SPORT 2 
+#EXTINF:-1 tvg-id="" tvg-name="DP: DIRECTV SPORT" tvg-logo="https://i.ibb.co/y0ZnwXH/Sin-t-tulo-1.png" group-title="*** DEPORTES LATINOS ***",DIRECTV SPORT
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43443
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN ESPAÑOL" tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="** CHATEL TV **",BEIN ESPAÑOL
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/31237
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="** CHATEL TV **",DIRECTV SPORT 2 
+http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/43443
 
 #EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="https://i.ibb.co/2g4Bxx1/Sin-t-tulo-1.png" group-title="*** DEPORTES LATINOS ***",AFIZZIONADOS
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/218
-
 
 
 
@@ -449,9 +429,6 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/1520
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/MTV-Simbolo.png" group-title="** CHATEL TV **",MTV
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12068
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="** CHATEL TV **",MTV HITS
-http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/16695
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="** CHATEL TV **",MTV
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/12008
@@ -695,6 +672,11 @@ http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/46786
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="https://i.ibb.co/rfw9JT7/Sin-t-tulo-1.png" group-title="** CHATEL TV **",24/7 XMEN ANIME
 http://ui.mrzutv.net:8080/10vonexiones/BtG9fgLY99/331
+
+
+
+
+
 
 
 
